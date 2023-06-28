@@ -21,7 +21,8 @@ During his Ph.D studies, his research interest lies in the intersection of Data 
 
 Conference Publications
 =====
-7. **Ye Li**, Jian Tan, Bin Wu, Xiao He, Feifei Li, *ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices.* (Accepted by ASPLOS 2024) 
+8. **Ye Li**, Jian Tan, Bin Wu, Xiao He, Feifei Li, *ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices.* (Accepted by ASPLOS 2024) 
+7. C. Shen, Q. Ouyang, F. Li, Z. Liu, L. Zhu, Y. Zhou, Q. Su, T. Yu, Y. Yi, J. Hu, C. Zheng, B. Wen, H. Zheng, L. Xu, S. Pan, B. Wu, X. He, **Y. Li**, J. Tan, S. Wang, D. Pei, W. Zhang, F. Li, *Lindorm TSDB: A Cloud-native Time-series Database for Large-scale Monitoring Systems.* (VLDB 2023 Industrial Track)
 6. Xiao He, **Ye Li**, Jian Tan, Bin Wu, Feifei Li, *OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting.* (VLDB 2023) [[paper]](https://dl.acm.org/doi/10.14778/3583140.3583155)
 5. Liming Wang, Hong Xie, **Ye Li**, Jian Tan, John C.S. Lui, *Interactive Log Parsing via Light-weight User Feedback.* (ACM The Web Conference 2023) [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583456)
 4. **Li Ye**, Xie Hong, Yishi Lin, John C.S. Lui, *Unifying Offline Causal Inference and Online Bandit Learning for Data Driven Decision.* (ACM The Web Conference 2021) [[arXiv version]](https://arxiv.org/abs/2001.05699) [[ACM version]](https://dl.acm.org/doi/abs/10.1145/3442381.3449982)
