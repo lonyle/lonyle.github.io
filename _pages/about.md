@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Alibaba DAMO Academy. I am working on AIOps related to database systems.
+I am a researcher at Alibaba Cloud. I am working on AIOps related to cloud computing systems (e.g. database/microservice/networking systems).
 
 Biography
 =====
@@ -21,7 +21,8 @@ During his Ph.D studies, his research interest lies in the intersection of Data 
 
 Conference Publications
 =====
-8. **Ye Li**, Jian Tan, Bin Wu, Xiao He, Feifei Li, *ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices.* (Accepted by ASPLOS 2024) 
+9. Sibei Chen, Ju Fan, Bin Wu, Nan Tang, Chao Deng, Pengyi Wang, **Ye Li**, Jian Tan, Feifei Li, Jingren Zhou, Xiaoyong Du, *Automatic Database Configuration Debugging using Retrieval-Augmented Language Models* (SIGMOD 2025) [[paper]](https://dl.acm.org/doi/abs/10.1145/3709663)
+8. **Ye Li**, Jian Tan, Bin Wu, Xiao He, Feifei Li, *ShapleyIQ: Influence Quantification by Shapley Values for Performance Debugging of Microservices.* (ASPLOS 2024) 
 7. C. Shen, Q. Ouyang, F. Li, Z. Liu, L. Zhu, Y. Zhou, Q. Su, T. Yu, Y. Yi, J. Hu, C. Zheng, B. Wen, H. Zheng, L. Xu, S. Pan, B. Wu, X. He, **Y. Li**, J. Tan, S. Wang, D. Pei, W. Zhang, F. Li, *Lindorm TSDB: A Cloud-native Time-series Database for Large-scale Monitoring Systems.* (VLDB 2023 Industrial Track)
 6. Xiao He, **Ye Li**, Jian Tan, Bin Wu, Feifei Li, *OneShotSTL: One-Shot Seasonal-Trend Decomposition For Online Time Series Anomaly Detection And Forecasting.* (VLDB 2023) [[paper]](https://dl.acm.org/doi/10.14778/3583140.3583155)
 5. Liming Wang, Hong Xie, **Ye Li**, Jian Tan, John C.S. Lui, *Interactive Log Parsing via Light-weight User Feedback.* (ACM The Web Conference 2023) [[paper]](https://dl.acm.org/doi/abs/10.1145/3543507.3583456)
@@ -40,6 +41,7 @@ Journal Publications
 
 Awards
 =====
+* Star Speaker at QCon Shanghai, 2025
 * Hong Kong Fellowship Scholarship, 2016-2020
 * Excellent Undergraduate Thesis in USTC, 2016
 * Guo Moruo Scholarship in USTC, 2016
